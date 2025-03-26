@@ -6,7 +6,7 @@ Je suis actuellement étudiant en **BTS SIO (Services Informatiques aux Organisa
 ## 💻 Compétences en cours d'apprentissage
 - **Java** ☕ : Développement d'applications orientées objet et projets backend.  
 - **PHP** 🌐 : Création de sites web dynamiques et gestion de bases de données avec MySQL.  
-- **Python** 🐍 : Scripts automatisés, analyse de données et développement d'applications.  
+- **Python** 🐍 : J'apprends actuellement les bases de ce langage pour développer des scripts simples et comprendre ses concepts fondamentaux.
 
 ## 🚀 Objectifs
 - Maîtriser les langages de programmation que j'apprends actuellement.  
