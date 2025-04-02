@@ -14,6 +14,6 @@ Je suis actuellement étudiant en **BTS SIO (Services Informatiques aux Organisa
 - Développer des applications utiles et innovantes.  
 
 ## 📂 Projets récents
-- **CompuTek** : Un site web développé en PHP dans le cadre d'un projet scolaire. Ce site permet de gérer des produits, des utilisateurs et des commandes, avec une interface dynamique et une base de données MySQL.  
+- [**CompuTek**](https://github.com/ChineseEatCat/computek) : Un site web développé en PHP dans le cadre d'un projet scolaire. Ce site permet de gérer des produits, des utilisateurs et des commandes, avec une interface dynamique et une base de données MySQL.  
 
 Merci de visiter mon profil, et n'hésitez pas à explorer mes dépôts ! 😊
