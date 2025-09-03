@@ -5,8 +5,8 @@ Je suis actuellement étudiant en **BTS SIO (Services Informatiques aux Organisa
 
 ## 💻 Compétences en cours d'apprentissage
 - **Java** <img src="https://camo.githubusercontent.com/0d4b500c99671bf83bcb747e4f25f3da28765f2bbb4cdd9733c09f9a46381aaa/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" alt="Java" width="20" height="20"> : Développement d'applications orientées objet et projets backend.  
-- **PHP** 🌐 : Création de sites web dynamiques et gestion de bases de données avec MySQL.  
-- **Python** 🐍 : J'apprends actuellement les bases de ce langage pour développer des scripts simples et comprendre ses concepts fondamentaux.
+- **PHP** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="20" height="20"> : Création de sites web dynamiques et gestion de bases de données avec MySQL.  
+- **Python** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20" height="20"> : J'apprends actuellement les bases de ce langage pour développer des scripts simples et comprendre ses concepts fondamentaux.
 
 ## 🚀 Objectifs
 - Maîtriser les langages de programmation que j'apprends actuellement.  
