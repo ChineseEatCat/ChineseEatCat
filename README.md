@@ -1,19 +1,60 @@
-# 👋 Bienvenue sur mon profil GitHub !
+# 👋 Bienvenue sur mon profil GitHub
+
+Étudiant en **BTS SIO** option **SLAM**. Passionné par le dev logiciel et le web, je construis des projets pour progresser et apprendre en continu.
+
+---
 
 ## 🎓 À propos de moi
-Je suis actuellement étudiant en **BTS SIO (Services Informatiques aux Organisations)**, option **SLAM (Solutions Logicielles et Applications Métier)**. Passionné par le développement logiciel et les technologies web, je consacre mon temps à apprendre et à créer des projets pour améliorer mes compétences.
+- BTS SIO (SLAM) — développement d’applications métiers et web
+- Intérêt pour le backend, les bases de données, et l’outillage Dev
+- Curieux, rigoureux, j’aime apprendre par la pratique
+
+---
 
 ## 💻 Compétences en cours d'apprentissage
-- **Java** <img src="https://camo.githubusercontent.com/0d4b500c99671bf83bcb747e4f25f3da28765f2bbb4cdd9733c09f9a46381aaa/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" alt="Java" width="20" height="20"> : Développement d'applications orientées objet et projets backend.  
-- **PHP** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="20" height="20"> : Création de sites web dynamiques et gestion de bases de données avec MySQL.  
-- **Python** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20" height="20"> : J'apprends actuellement les bases de ce langage pour développer des scripts simples et comprendre ses concepts fondamentaux.
+- **Java** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="20" height="20"> : Développement orienté objet et projets backend  
+- **PHP** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="20" height="20"> : Sites dynamiques, APIs et MySQL  
+- **Python** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="20" height="20"> : Scripts, automatisation et bases du langage
+
+### 🧰 Outils et technologies
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="24" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="24" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="24" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="24" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="24" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="24" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="24" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="24" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="24" alt="Windows"/>
+</p>
+
+---
 
 ## 🚀 Objectifs
-- Maîtriser les langages de programmation que j'apprends actuellement.  
-- Contribuer à des projets open source pour collaborer avec d'autres développeurs.  
-- Développer des applications utiles et innovantes.  
+- Consolider Java, PHP, Python et les bases de données  
+- Contribuer à des projets open source  
+- Développer des applications utiles et bien structurées
+
+---
 
 ## 📂 Projets récents
-- [**CompuTek**](https://github.com/ChineseEatCat/computek) : Un site web développé en PHP dans le cadre d'un projet scolaire. Ce site permet de gérer des produits, des utilisateurs et des commandes, avec une interface dynamique et une base de données MySQL.  
+- [**CompuTek**](https://github.com/ChineseEatCat/computek) — Site web en PHP (projet scolaire)  
+  Gestion des produits, utilisateurs et commandes, interface dynamique + base MySQL.  
+  <sub>Stack: PHP • MySQL • HTML • CSS • Git</sub>
 
-Merci de visiter mon profil, et n'hésitez pas à explorer mes dépôts ! 😊
+---
+
+## 📊 Statistiques GitHub
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ChineseEatCat&show_icons=true&theme=transparent&hide_border=true" height="150" alt="Stats GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChineseEatCat&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top Langs"/>
+</p>
+
+---
+
+## 📫 Contact
+- Ouvrez une issue sur l’un de mes dépôts pour échanger
+- [LinkedIn](https://fr.linkedin.com/in/noann-ozier-lafontaine-16437a344)
